@@ -9,3 +9,4 @@ The analysis can be found in the slides.
 Our financial analysis has concluded that annual members are much more profitable than casual users. To maximize the number of annual members while avoiding costly campaigns to raise awareness, we can convert current casual users into members. This would be a key to long-term growth.
 This is why we want to design marketing strategies to convert these casual riders into members. To do that, we first need to identify how members and casual users use Cyclistic bikes differently.
 
+The analysis was mainly done in R, but some prior data manipulation was done in Excel.
