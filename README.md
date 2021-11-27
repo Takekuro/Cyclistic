@@ -2,7 +2,7 @@
 
 This analysis is based on a virtual business scenario, in which the company is called "Cyclistic", but the data is real data (public data from Divvy bikes in Chicago). Data from Sep 2020 to Aug 2021 is used for this analysis.
 
-The analysis can be found in the slides.
+The analysis can be found in the slides. A brief summary can also be found in the reports (one in Japanese).
 
 # The Scenario
 
