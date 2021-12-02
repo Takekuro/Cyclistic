@@ -4,6 +4,9 @@ This analysis is based on a virtual business scenario, in which the company is c
 
 The analysis can be found in the slides. A brief summary can also be found in the reports (one in Japanese).
 
+My presentation can be found here. Enjoy!
+https://youtu.be/fsmxtEX08VY
+
 # The Scenario
 
 Our financial analysis has concluded that annual members are much more profitable than casual users. To maximize the number of annual members while avoiding costly campaigns to raise awareness, we can convert current casual users into members. This would be a key to long-term growth.
